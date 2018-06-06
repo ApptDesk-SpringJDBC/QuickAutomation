@@ -1,0 +1,15 @@
+TODO
+============
+1. At present ATU report jar as to upgrade for new features. location under /lib - {Awaiting for new features}
+2. Each flow under flow control sheet, Needs to be mapped with lined number data[scenario sheet] to run the testcases. - High      priority
+3. menu selection generic case. - High priority
+4. Logging + back up task - Medium priority
+5. Need to Parameterize - video record on/off and email report on/off and etc.
+   {See //TODO comment in code and full fill by reading from properties file} - Low Prority
+6. Review the code -  low priority.{Using sonar qube + fortify tool}
+7. ATU report audit trail - with capture of screen shot for failure/success, If failed capture the printStackTrace in audit        trail buttom of the page and trigger the mail to configurable recipients. - Hish priority.
+8. Parameterize Email report to multiple recipients.{Should be configurable} - Hish priority.
+9. ATU report backup task. -  low prioriy
+10. Video files backup task - low priority
+11. inline video play in ATU report pages.
+
